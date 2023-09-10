@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f84556f8-c4d2-4fc8-877a-13b1fdc43562" name="Changes" comment="Upload Assignment02 files(Loan Calculator).">
+    <list default="true" id="f84556f8-c4d2-4fc8-877a-13b1fdc43562" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/loanCalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/loanCalculatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/view/loanCalculator.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/view/loanCalculator.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,23 +23,53 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "searchQuery": "main",
-      "state": "OPEN"
+      &quot;searchQuery&quot;: &quot;main&quot;,
+      &quot;state&quot;: &quot;OPEN&quot;
     },
     {
-      "searchQuery": "main"
+      &quot;searchQuery&quot;: &quot;main&quot;
     }
   ],
-  "lastFilter": {
-    "searchQuery": "main"
+  &quot;lastFilter&quot;: {
+    &quot;searchQuery&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1694380738" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1694380737" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -74,7 +107,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "settings.editor.selected.configurable": "GitLink.ProjectSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -93,6 +126,7 @@
       <updated>1694131381825</updated>
       <workItem from="1694131382953" duration="4275000" />
       <workItem from="1694372304567" duration="6871000" />
+      <workItem from="1694380612703" duration="1030000" />
     </task>
     <task id="LOCAL-00001" summary="Upload Assignment02 files(Loan Calculator).">
       <created>1694379709507</created>
@@ -101,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694379709507</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Upload Assignment02 files(Loan Calculator).">
+      <created>1694380661223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694380661223</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

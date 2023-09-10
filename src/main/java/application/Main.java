@@ -12,7 +12,7 @@ import java.net.URL;
 public class Main extends Application {
     @Override
     public void start(Stage stage) {
-        try{
+        try {
             URL url = new File("src/main/java/view/loanCalculator.fxml").toURI().toURL();
             GridPane root = FXMLLoader.load(url);
             Scene scene = new Scene(root, 400, 400);
@@ -21,7 +21,8 @@ public class Main extends Application {
             stage.show();
 
         } catch (Exception e) {
-            e.printStackTrace();        }
+            e.printStackTrace();
+        }
     }
 
     public static void main(String[] args) {
